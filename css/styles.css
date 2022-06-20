@@ -1,0 +1,26 @@
+/****************************TAG SELECTOR**************************************/
+  body{
+    background-color: #EAF6F6;
+    font-family: Arial,sans-serif;
+  }
+  hr{
+    border-top-style: dotted;
+    border-bottom-style : none;
+    border-left-style: none;
+    border-right-style: none;
+    border-width: 5px;
+    border-color: grey;
+    width: 5%;
+  }
+  h1{
+    color: #66BFBF;
+  }
+  h3{
+    color: #66BFBF;
+  }
+
+  img:hover{
+    background-color: #66BFBF;
+  }
+/***************************CLASS SELECTOR**************************************/
+/***************************ID SELECTOR****************************************/
